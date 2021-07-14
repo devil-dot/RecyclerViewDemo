@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MyRecyclerViewDemo6</string>
+
+    <string name="description_will_be_placed_here">Description Will be placed here</string>
+    <string name="title">Title</string>
+
+    <string-array name="country_names">
+
+        <item>Afghanistan</item>
+        <item>Armenia</item>
+        <item>Azerbaijan</item>
+        <item>Bangladesh</item>
+        <item>Bahrain</item>
+        <item>Bhutan</item>
+        <item>Brazil</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Malta</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>Poland</item>
+        <item>Spain</item>
+
+    </string-array>
+
+
+
+
+    <string-array name="country_desc">
+
+        <item>Afghanistan Is beautiful country </item>
+        <item>Armenia Is beautiful country </item>
+        <item>Azerbaijan Is beautiful country </item>
+        <item>Bangladesh Is beautiful country </item>
+        <item>Bahrain Is beautiful country </item>
+        <item>Bhutan Is beautiful country </item>
+        <item>Brazil Is beautiful country </item>
+        <item>China Is beautiful country </item>
+        <item>India Is beautiful country </item>
+        <item>Japan Is beautiful country </item>
+        <item>Malta Is beautiful country </item>
+        <item>Nepal Is beautiful country </item>
+        <item>Pakistan Is beautiful country </item>
+        <item>Poland Is beautiful country </item>
+        <item>Spain Is beautiful country </item>
+
+    </string-array>
+
+</resources>
